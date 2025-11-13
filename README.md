@@ -97,9 +97,5 @@ Want to make it aesthetic?
 
 ---
 
-## License
-This project is open-source and free to use under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
 > *"Split bills easily, stay chill financially."* 
+
