@@ -99,3 +99,13 @@ Want to make it aesthetic?
 
 > *"Split bills easily, stay chill financially."* 
 
+---
+
+## How to Run
+
+1. Make sure you have Python installed on your computer.
+2. Open your terminal or command prompt.
+3. Navigate to the folder containing this project.
+4. Run the following command:
+   ```bash
+   python "Expense Splitter.py"
